@@ -1,0 +1,20 @@
+# AutoArchitect v2.6 Documentation
+
+Project one-liner: Enterprise AI Workflow Suite for synthesis, audit, and deployment.
+
+## Core Documentation Entry Points
+- [docs/DOC_POLICY.md](docs/DOC_POLICY.md): Governance and provenance rules.
+- [docs/SECURITY.md](docs/SECURITY.md): Threat model and safety protocols.
+- [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md): System design and data flow.
+- [docs/FRAMEWORK.md](docs/FRAMEWORK.md): Implementation stack.
+- [docs/CHANGELOG.md](docs/CHANGELOG.md): Project history.
+- [docs/AGENTS_DOCUMENTATION_AUTHORITY.md](docs/AGENTS_DOCUMENTATION_AUTHORITY.md): System prompt for docs agents.
+
+## Full Context
+- [llms-full.txt](llms-full.txt): Deterministically assembled context of all markdown docs.
+
+---
+**Source**: standard  
+**Locator**: llms.txt  
+**Confidence**: HIGH  
+**Last Verified**: 2025-05-22
